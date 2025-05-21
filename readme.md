@@ -2,6 +2,6 @@
 
 subscribe to me
 
-''' javascript
+```javascript
 console.log("hey there");
-'''
+```
